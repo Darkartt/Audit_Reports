@@ -1,5 +1,3 @@
-# Audit_Reports
-
 # Foundry DeFi Stablecoin CodeHawks Audit Contest - Findings Report
 
 # Table of contents
